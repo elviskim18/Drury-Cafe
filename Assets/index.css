@@ -1,0 +1,35 @@
+img{
+    width: 300px;
+    height: 200px;
+
+}
+.menu{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: 20px;
+}
+header{
+    height: 200px;
+    width: 100vw;
+    
+}
+header{
+    
+    background-size:contain;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.384), rgba(0, 0, 0, 0.384)), url(/Assets/images/logo.jpg);
+    
+}
+
+h1{
+    font-size: 4em;
+    margin: 0;
+}
+.logomsg p{
+    font-size: x-large;
+}
